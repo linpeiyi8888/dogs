@@ -1,4 +1,4 @@
-# cafe pos
+# Dogs adoption
 
 一個領養毛小孩的網站，用 grid 排版，具備 RWD。
 
